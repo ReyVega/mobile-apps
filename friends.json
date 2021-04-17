@@ -1,0 +1,8 @@
+[
+	{"name" : "Rey", "hobby" : "Gym", "age" : "21", "phone" : "4867437", "address" : "San Anselmo"},
+	{"name" : "Ari", "hobby" : "Chess", "age" : "20", "phone" : "5637953", "address" : "La Primavera"},
+	{"name" : "Héctor", "hobby" : "Anime", "age" : "20", "phone" : "4859234", "address" : "Solé"},
+	{"name" : "Nataly", "hobby" : "Dibujar", "age" : "20", "phone" : "9847365", "address" : "Armonía"},
+	{"name" : "Agus", "hobby" : "Comer", "age" : 20"", "phone" : "7683294", "address" : "Álamos"},
+	{"name" : "Xavier", "hobby" : "Música", "age" : "20", "phone" : "5672834", "address" : "Valle Real"}
+]
